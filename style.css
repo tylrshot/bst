@@ -1,0 +1,26 @@
+/*
+table, th, td {
+  border: 1px solid black; 
+}
+
+table {
+  width:25%;
+}
+*/
+
+th, td {
+  border: 1px solid black; 
+}
+
+html, body{
+    height:100%;
+    width:100%;
+    padding:15;
+    margin:15;
+}
+
+tr, td {
+  text-align: center;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
