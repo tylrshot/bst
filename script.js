@@ -33,7 +33,7 @@ function createTable(tableData) {
   });
 
   table.appendChild(tableBody);
-  document.body.innerHTML = "";
+
   document.body.appendChild(table);
 }
 
